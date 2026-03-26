@@ -1,4 +1,4 @@
-Feature branch: This is a new feature
+Master branch: Important update
 I'm learning Git.
 Added HelloWorld.java
 
