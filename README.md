@@ -9,3 +9,6 @@ This Java program prints 'HelloWorld' to the console.
 Added new feature description
 
 Added new feature on master
+
+## New Feature
+This feature was added from the cloned repository
